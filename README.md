@@ -1,2 +1,3 @@
-# csc_swap_python
+# pySwapClient
+
 swap client by python on Win64
